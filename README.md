@@ -4,12 +4,12 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 
 ## Live Link
 
-You can visit the live version of the website : https://personal-website-sepia-nu.vercel.app/
+You can visit the live version of the website : https://iranna-patil.vercel.app/
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Patil-24/Personal-Website
+   git clone https://github.com/Patil-24/Portfolio-Website
 
 2. Navigate into the project directory:
    ```bash
